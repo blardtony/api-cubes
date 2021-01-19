@@ -7,7 +7,7 @@ use Doctrine\Persistence\ObjectManager;
 
 /**
  * Class AppFixtures
- * @packages App\DataFixtures
+ * @package App\DataFixtures
  */
 class AppFixtures extends Fixture
 {
